@@ -1,0 +1,25 @@
+a, p, h1, h2, h3 {
+  color: #CC0000;
+}
+
+h1 {
+  text-align: center;
+}
+
+.menusor, .lablec {
+  color: #CC0000;
+  background-color: #E7D9B6;
+}
+
+.fejlec, .lablec {
+  text-align: center;
+}
+
+#dartboard {
+  text-align: center;
+}
+
+ul, li {
+  list-style: square;
+  color: #CC0000;
+}
